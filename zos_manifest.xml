@@ -5,5 +5,5 @@
 
   <project path="zos" name="zos" />  <!--git@gitee.com:{namespace}/{name}.git  name 项与 clone 的 url 相关-->
   <project path="opensource/musl" name="musl" /> 
-  <project path="opensource/printf" name="printf" /> 
+  <project path="opensource/printf" name="printf" revision="master" /> 
 </manifest>
